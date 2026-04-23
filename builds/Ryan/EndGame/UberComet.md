@@ -7,8 +7,8 @@
 **HP:** **85** = 30+50+5  
 **MP:** **130** = 60+50+20  
 **IP:** **8** = 6+2  
-**Def:** **18** = 12 + 2(Plating) + 2(Dodge) + 1(Empty Hands) + 1(Blade Adept) |
-**M.Def:** **9** = 6 + 1(Plating) + 1(Empty Hands) + 1(Blade Adept)
+**Def:** **7** = 6 + 2(Plating) |
+**M.Def:** **13** = 12 + 1(Plating)
 
 1. **Entropist 10**
     - Absorb MP - 5
