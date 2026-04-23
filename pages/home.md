@@ -1,3 +1,3 @@
 # Home Page
 
-[Builds](..\builds\builds.md)
+[Builds](../builds/builds.md)
