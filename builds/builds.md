@@ -5,6 +5,7 @@
 ### Early Game
 
 - [Active Support](Ryan/EarlyGame/ActiveSupport.md)
+- [Blessed Paladin](Ryan/EarlyGame/BlessedPaladin.md)
 
 ### Late Game
 
