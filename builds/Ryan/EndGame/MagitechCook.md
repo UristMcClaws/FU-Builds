@@ -18,9 +18,9 @@
     - **Heroic:** Quantum Magicannon (+5 dmg with Magitech Armament, and when attacking, can rebuild weapon, 2-weapon fight, or gain multi(3))
 2. **Merchant 10**
     - Winds of Trade - 3
-    - Private Stock - 3 (can spend 1 Trade Good to in place of an IP expendature (up to 5 ip/Trade Good))
+    - Private Stock - 2 (can spend 1 Trade Good to in place of an IP expendature (up to 5 ip/Trade Good))
     - I've Heard of it! - 3 (Spend 1 Trade Good to get a +6 to a check to examine creature, item, or location)
-    - Real Treasure - 1
+    - Real Treasure - 2
     - **Heroic:** Skillful Dosage (Allows for overhealing)
 3. **Fury 10**
     - Adrenaline - 5
